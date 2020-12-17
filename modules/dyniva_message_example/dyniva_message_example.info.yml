@@ -1,0 +1,8 @@
+name: 'Dyniva message example'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - message
+  - system
+  - views
